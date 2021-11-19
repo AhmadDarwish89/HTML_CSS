@@ -1,0 +1,248 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-image: url("272-2723959_new-york-street-wallpaper-4k.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+
+	background-color: #a64a49c;
+	
+}
+.main{
+	margin: 0 auto;
+	border: #F30 solid 1px;
+	width: 800px;
+} 
+
+#header{ 
+	border-color:#933; 
+	border-width:1px;
+	border-style:solid;
+	width:800px;
+	height:200px;
+	background-image:url("6.jpg");
+	border-radius: 5px 5px 5px 5px;
+}
+#menu ul{
+	list-style-type: none;
+	margin-top: 12px;
+	margin-left: -33px;
+		}
+#menu ul li {
+		display: inline;
+		}
+#menu ul li a{
+	text-decoration: none;
+	color: #fff;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font font-weight: bold;
+	font-size: 18px;
+	border:#0B0000 solid 1px;
+	padding: 7px 18px 7px 18px ;
+	border-radius: 5px 5px 5px 5px;
+	background-color: #EC7600;
+	
+}#menu ul li a:hover{
+	background-color: #FC0;
+}
+.menu{ 
+	margin-top: 3px;
+	border-color:#933; 
+	border-width:1px;
+	border-style:solid;
+	width:800px;
+	height:45px;
+	background-color: #FFC;
+	direction: ltr;
+
+	
+} 
+
+.content{
+	margin-top: 3px;
+	border-color:#933; 
+	border-width:1px;
+	border-style:solid;
+	width:800px;
+	height:auto;
+	background-color: #FFC;
+} 
+.imgdiv { 
+	
+	width:190px;
+	
+	border: 1px solid #FC0;
+	
+	
+}
+
+.text{ 
+	
+	width:580px;
+	border: 1px solid #FC0;
+	float: right
+}
+.title{ 
+	padding:3px 3px 3px 3px;
+	color:#F60; 
+	font-family: "Times New Roman", Times, serif; 
+	font-size:25px; 
+	font-weight:bold; 
+	text-shadow:#000 Opx 2px;
+}
+.details{ 
+	
+	padding:3px 3px 3px 3px;
+	font-size:12px; 
+	color;#FC2; 
+	font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	
+}
+/*......link...*/
+.details a{
+	color: #080DED;
+	
+}
+/*linke pressed*/
+.details a:hover{
+	color: #F3081E;
+	text-decoration: none;
+}
+
+.img1{ 
+	
+	height: 110px;
+	width: 190px;
+	
+	}
+	
+.marq{
+		
+	}
+
+
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-image: url("272-2723959_new-york-street-wallpaper-4k.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+
+	background-color: #a64a49c;
+	
+}
+.main{
+	margin: 0 auto;
+	border: #F30 solid 1px;
+	width: 800px;
+} 
+
+#header{ 
+	border-color:#933; 
+	border-width:1px;
+	border-style:solid;
+	width:800px;
+	height:200px;
+	background-image:url("6.jpg");
+	border-radius: 5px 5px 5px 5px;
+}
+#menu ul{
+	list-style-type: none;
+	margin-top: 12px;
+	margin-left: -33px;
+		}
+#menu ul li {
+		display: inline;
+		}
+#menu ul li a{
+	text-decoration: none;
+	color: #fff;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font font-weight: bold;
+	font-size: 18px;
+	border:#0B0000 solid 1px;
+	padding: 7px 18px 7px 18px ;
+	border-radius: 5px 5px 5px 5px;
+	background-color: #EC7600;
+	
+}#menu ul li a:hover{
+	background-color: #FC0;
+}
+.menu{ 
+	margin-top: 3px;
+	border-color:#933; 
+	border-width:1px;
+	border-style:solid;
+	width:800px;
+	height:45px;
+	background-color: #FFC;
+	direction: ltr;
+
+	
+} 
+
+.content{
+	margin-top: 3px;
+	border-color:#933; 
+	border-width:1px;
+	border-style:solid;
+	width:800px;
+	height:auto;
+	background-color: #FFC;
+} 
+.imgdiv { 
+	
+	width:190px;
+	
+	border: 1px solid #FC0;
+	
+	
+}
+
+.text{ 
+	
+	width:580px;
+	border: 1px solid #FC0;
+	float: right
+}
+.title{ 
+	padding:3px 3px 3px 3px;
+	color:#F60; 
+	font-family: "Times New Roman", Times, serif; 
+	font-size:25px; 
+	font-weight:bold; 
+	text-shadow:#000 Opx 2px;
+}
+.details{ 
+	
+	padding:3px 3px 3px 3px;
+	font-size:12px; 
+	color;#FC2; 
+	font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	
+}
+/*......link...*/
+.details a{
+	color: #080DED;
+	
+}
+/*linke pressed*/
+.details a:hover{
+	color: #F3081E;
+	text-decoration: none;
+}
+
+.img1{ 
+	
+	height: 110px;
+	width: 190px;
+	
+	}
+	
+.marq{
+		
+	}
+
+
